@@ -1,1 +1,107 @@
+* {
+	margin: 0;
+	padding: 0;
+}
 
+html {
+	box-sizing: border-box;
+}
+
+.logo {
+	font-family: 'Inconsolata', sans-serif;
+	margin: 2em 0 0 4em;
+	font-size: 1.3em;
+	color: #333333;
+}
+
+.hero {
+	font-family: 'Space Mono', sans-serif;
+	width: 85%;
+	margin: 8em 4em;
+
+	display: grid;
+	grid-template-columns: repeat(2, minmax(min-content, 1fr));
+	grid-template-row: repeat(3, 1fr);
+	gap: 2em 2em;
+	justify-items: start;
+	align-items: center;
+}
+
+.hero-img {
+	grid-row: 1 / span 3;
+	width: 90%;
+	object-fit: cover;
+}
+
+.heading {
+	font-size: 3.3em;
+	font-weight: 700;
+	
+}
+
+.subheading {
+	font-size: 1.2em;
+	color: #4f4f4f;
+	width: 60%;
+	line-height: 1.5em;
+}
+
+.btn {
+	font-family: 'Space Mono', sans-serif;
+	background-color: #333333;
+	color: white;
+	font-weight: 700;
+	font-size: 0.8em;
+	
+	width: 16em;
+	height: 4em;
+	border-style: none;
+	align-self: end;
+}
+
+@media (max-width: 900px) {
+	.hero {
+		grid-template-columns: 1fr;
+		margin-top: 4em;
+	}
+	.heading {
+		font-size: 2.5em;
+	}
+	.subheading {
+		font-size: 1em;
+	}
+	.btn {
+		width: 14em;
+	}
+}
+
+@media (max-width: 600px) {
+	.hero {
+		grid-template-columns: 1fr;
+		margin-top: 4em;
+	}
+	.heading {
+		font-size: 2.5em;
+	}
+	.subheading {
+		font-size: 1.1em;
+		width: 80%;
+	}
+	.logo {
+		margin: 1em 0 0 1em;
+	}
+}
+
+.footer-text {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	margin: 14em 0 1em 0;
+	color: #bdbdbd;
+	font-size: 0.9em;
+}
+
+.footer-text a {
+	font-weight: 700;
+	text-decoration: none;
+	color: #bdbdbd;
+}
