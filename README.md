@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://62f06ca78fac9d02bbd76e3d--resilient-mousse-339f4f.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/RafaePy/404-Not-Found-WebPage">
       Solution
     </a>
     <span> | </span>
@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@RafaePy](https://github.com/RafaePy)
+- Twitter [@AbdRaphae](https://{twitter.com/AbdRaphae)
