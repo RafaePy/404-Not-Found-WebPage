@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404-Not-Found-WebPage}</h1>
+<h1 align="center">404-Not-Found-WebPage</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://62f06ca78fac9d02bbd76e3d--resilient-mousse-339f4f.netlify.app/">
+    <a href="https://62f06ca78fac9d02bbd76e3d--resilient-mousse-339f4f.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/RafaePy/404-Not-Found-WebPage">
+    <a href="https://github.com/RafaePy/404-Not-Found-WebPage" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Challenge
     </a>
   </h3>
@@ -70,6 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@RafaePy](https://github.com/RafaePy)
 - Twitter [@AbdRaphae](https://{twitter.com/AbdRaphae)
