@@ -3,7 +3,7 @@
 <h1 align="center">404-Not-Found-WebPage</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io">Devchallenges.io</a>.
 </div>
 
 <div align="center">
@@ -12,11 +12,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/RafaePy/404-Not-Found-WebPage" target="_blank">
+    <a href="https://github.com/RafaePy/404-Not-Found-WebPage">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
